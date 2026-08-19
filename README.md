@@ -35,7 +35,7 @@
 
 <div align="left">
   <!-- WORKING DIRECT GIF LINK -->
-  <img src="https://media1.tenor.com/m/fC7M293v8v8AAAAC/matrix-hacker.gif" align="right" width="180" alt="Coding GIF" />
+  <img src="https://tenor.com/view/hacker-pc-meme-matrix-codes-gif-16730883" align="right" width="180" alt="Coding GIF" />
 
   <h3>Tech & Design Stack</h3>
 
