@@ -37,7 +37,7 @@
   <!-- SIDE STICKER / SMALL GIF SLOT -->
   <img src="YOUR_SMALL_GIF_URL_HERE" align="right" width="180" alt="Coding GIF" />
 
-  <h3>🛠️ Tech & Design Stack (Part-time / Side Work)</h3>
+  <h3>Tech & Design Stack</h3>
 
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" style="margin-right: 8px;" />
