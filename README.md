@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohan Sunuwar</h1>
 
-<!-- TOP HEADER GIF / BANNER -->
+<!-- CENTERED SQUARE TOP GIF -->
 <div align="center">
-  <img src="https://media1.tenor.com/m/rcnMwnXR9CsAAAAC/anime-chuunibyou.gif" width="100%" alt="Header Banner" />
+  <img src="https://media1.tenor.com/m/rcnMwnXR9CsAAAAC/anime-chuunibyou.gif" width="220" height="220" style="object-fit: cover; border-radius: 12px;" alt="Header Banner" />
 </div>
 
 <br />
@@ -34,8 +34,8 @@
 ---
 
 <div align="left">
-  <!-- SIDE STICKER / SMALL GIF SLOT -->
-  <img src="https://tenor.com/view/hacker-pc-meme-matrix-codes-gif-16730883" align="right" width="180" alt="Coding GIF" />
+  <!-- WORKING DIRECT GIF LINK -->
+  <img src="https://media1.tenor.com/m/fC7M293v8v8AAAAC/matrix-hacker.gif" align="right" width="180" alt="Coding GIF" />
 
   <h3>Tech & Design Stack</h3>
 
