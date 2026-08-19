@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Rohan Sunuwar and I'm an aspiring and passionate front-end web developer and UI/UX designer from Nepal ...</h2>
+<h2 align="center">Hi 👋! My name is Rohan Sunuwar and I'm a part-time Front-End Developer & UI/UX Designer</h2>
 
 ###
 
