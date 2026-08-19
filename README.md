@@ -2,7 +2,7 @@
 
 <!-- TOP HEADER GIF / BANNER -->
 <div align="center">
-  <img src="[YOUR_HEADER_GIF_URL_HERE](https://media1.tenor.com/m/rcnMwnXR9CsAAAAC/anime-chuunibyou.gif)" width="100%" alt="Header Banner" />
+  <img src="https://media1.tenor.com/m/rcnMwnXR9CsAAAAC/anime-chuunibyou.gif" width="100%" alt="Header Banner" />
 </div>
 
 <br />
